@@ -38,6 +38,6 @@ src="https://img.shields.io/twitter/follow/Nurboldev?logo=twitter&style=for-the-
 
 ### Badges
 
-<b>My GitHub Stats</b>
+
 
 
